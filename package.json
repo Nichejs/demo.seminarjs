@@ -1,0 +1,26 @@
+{
+	"name": "demo.seminarjs",
+	"version": "0.0.1",
+	"description": "Seminarjs Demo website",
+	"main": "index.js",
+	"scripts": {
+		"test": "npm test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Nichejs/demo.seminarjs.git"
+	},
+	"keywords": [
+    "seminarjs",
+    "demo",
+    "website",
+    "course",
+    "online"
+  ],
+	"author": "Nichejs",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Nichejs/demo.seminarjs/issues"
+	},
+	"homepage": "https://github.com/Nichejs/demo.seminarjs"
+}
