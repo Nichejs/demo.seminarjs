@@ -22,6 +22,6 @@ seminarjs.init({
 
 seminarjs.set('routes', require('./private/routes'));
 
-seminarjs.loadPlugin('chat');
-
 seminarjs.start();
+
+seminarjs.loadPlugin('chat');
