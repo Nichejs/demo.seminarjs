@@ -25,3 +25,5 @@ seminarjs.set('routes', require('./private/routes'));
 seminarjs.start();
 
 seminarjs.loadPlugin('chat');
+
+seminarjs.loadPlugin('contest');

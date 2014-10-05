@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/Nichejs/demo.seminarjs",
   "dependencies": {
-    "seminarjs-chat": "0.0.2"
+    "seminarjs-chat": "0.0.2",
+    "seminarjs": "0.0.1"
   }
 }
